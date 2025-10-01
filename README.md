@@ -45,17 +45,21 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vheek10&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Vheek10&theme=radical)  
+
+---
+
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vheek10&layout=compact&theme=radical)  
 
 ---
 
 ### 🌟 Featured Projects  
-- 🔗 [ELGVotes](https://github.com/your-username/elgvotes) – Elite full-stack voting app with Next.js, Tailwind, MongoDB  
-- 🔗 [VaultVote](https://github.com/your-username/vaultvote) – Decentralized anonymous governance platform  
-- 🔗 [CoinMarketCap Clone](https://github.com/your-username/cmc-clone) – Full crypto dashboard with Web3 features  
-- 🔗 [TokenSwap](https://github.com/your-username/tokenswap) – Elegant PancakeSwap-style token swapping UI  
+- 🔗 [ELGVotes](https://github.com/Vheek10/elgvotes) – Elite full-stack voting app with Next.js, Tailwind, MongoDB  
+- 🔗 [VaultVote](https://github.com/Vheek10/vaultvote) – Decentralized anonymous governance platform  
+- 🔗 [CoinMarketCap Clone](https://github.com/Vheek10/cmc-clone) – Full crypto dashboard with Web3 features  
+- 🔗 [TokenSwap](https://github.com/Vheek10/tokenswap) – Elegant PancakeSwap-style token swapping UI  
 
 ---
 
