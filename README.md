@@ -42,30 +42,39 @@
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="25%">
       <h3><a href="https://strata-deed.vercel.app">🏠 StrataDeed</a></h3>
-      <p><em>Next.js · TypeScript · Mantle · Zero-Knowledge Proofs</em></p>
-      <p>Privacy-first platform for tokenizing real-world assets. Implements ZK-circuits for confidential ownership.</p>
+      <p><em>Next.js · TypeScript · Mantle · ZK-Proofs</em></p>
+      <p>Privacy-first platform for tokenizing real estate with zero-knowledge confidential ownership.</p>
       <p>
-        <a href="https://strata-deed.vercel.app"><strong>Live Demo</strong></a> · 
+        <a href="https://strata-deed.vercel.app"><strong>Demo</strong></a> · 
         <a href="https://github.com/strata-deed">Code</a>
       </p>
     </td>
-    <td width="33%">
+    <td width="25%">
       <h3><a href="https://github.com/vheek10/valuecontentafrica">🌍 ValueContentAfrica</a></h3>
       <p><em>Next.js · Node.js · PostgreSQL · AWS</em></p>
-      <p>End-to-end platform empowering creators with analytics, monetization, and content management tools.</p>
+      <p>SaaS platform empowering African creators with analytics, monetization, and management tools.</p>
       <p>
-        <a href="https://github.com/vheek10/valuecontentafrica"><strong>View Project</strong></a>
+        <a href="https://github.com/vheek10/valuecontentafrica"><strong>Code</strong></a>
       </p>
     </td>
-    <td width="33%">
-      <h3><a href="https://blockvote-demo.vercel.app">🗳️ BlockVote</a></h3>
-      <p><em>Solidity · Hardhat · IPFS · Polygon</em></p>
-      <p>On-chain governance dApp featuring quadratic voting and immutable, verifiable election results.</p>
+    <td width="25%">
+      <h3><a href="https://polysight.vercel.app">🔍 PolySight</a></h3>
+      <p><em>React · Polygon · The Graph · Ethers.js</em></p>
+      <p>Advanced blockchain explorer & analytics dashboard for Polygon network transactions and smart contracts.</p>
       <p>
-        <a href="https://blockvote-demo.vercel.app"><strong>Live Demo</strong></a> · 
-        <a href="https://github.com/vheek10/blockvote">Code</a>
+        <a href="https://polysight.vercel.app"><strong>Demo</strong></a> · 
+        <a href="https://github.com/vheek10/polysight">Code</a>
+      </p>
+    </td>
+    <td width="25%">
+      <h3><a href="https://disney-plus-master.vercel.app">🎬 Disney+ Clone</a></h3>
+      <p><em>React · Firebase · Styled Components · Redux</em></p>
+      <p>Full-featured streaming service clone with user authentication, video playback, and responsive UI.</p>
+      <p>
+        <a href="https://disney-plus-master.vercel.app"><strong>Demo</strong></a> · 
+        <a href="https://github.com/vheek10/disney-plus-clone">Code</a>
       </p>
     </td>
   </tr>
