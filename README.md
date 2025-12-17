@@ -1,74 +1,92 @@
+# Hi 👋, I'm Victor Gp
 
-# Hi 👋, I'm Victor  Gp
+**Full-Stack Developer & Web3 Enthusiast**  
+Building decentralized applications with modern web technologies. Passionate about creating scalable solutions that bridge traditional systems with blockchain innovation.
 
-🚀 Passionate about **Web3, Full-Stack Development, and Cloud Solutions**  
-💡 Building cool projects with **Next.js | TypeScript | TailwindCSS | MongoDB | Web3**  
-🌱 Currently exploring **DeFi, Governance Protocols & Blockchain Scaling**  
-🎯 Goal: To create scalable apps with real-world impact  
+**Connect with me:**
 
----
-
-### 🛠️ Tech Stack  
-
-#### 🚀 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
-
-#### 🌐 Web3 / Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) 
-![Metamask](https://img.shields.io/badge/Metamask-F6851B?style=flat&logo=metamask&logoColor=white) 
-![Hardhat](https://img.shields.io/badge/Hardhat-FCC72C?style=flat&logo=hardhat&logoColor=black) 
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EB?style=flat&logo=ethers&logoColor=white) 
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white) 
-
-#### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://victorgp.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vheek10)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Vheek10)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeremiahvictorgp@gmail.com)
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vheek10&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Vheek10&theme=radical)  
+## 💼 Experience & Achievements
+
+### **Lead Developer** · ValueContentAfrica *(2023–Present)*
+- Spearheaded development of a content management and analytics platform serving African creators.
+- Architected microservices-based backend, improving data processing efficiency by 50%.
+- Mentored junior developer, establishing coding standards and review processes.
+
+### **Technical Lead** · StrataDeed *(2024–Present)*
+- Architected privacy-focused real estate tokenization platform on Mantle Network.
+- Implemented zero-knowledge proof circuits for confidential transactions.
+- Reduced gas costs by 65% through Layer 2 optimization strategies.
+- Led team of 4 developers in agile product development cycles.
+
+### **Freelance Web3 Developer** *(2022–2024)*
+- Built 15+ smart contracts with 100% audit pass rate.
+- Developed custom DEX interfaces handling $500K+ monthly volume.
+- Created educational content reaching 10K+ developers.
 
 ---
 
-### 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vheek10&layout=compact&theme=radical)  
+## 🚀 Featured Projects
+
+### **StrataDeed – Privacy-Preserving Real Estate Tokenization**
+*Next.js · TypeScript · Tailwind · Mantle Network · Zero-Knowledge Proofs*  
+A platform transforming real estate into fractional, liquid assets with institutional-grade privacy.  
+**Demo:** [strata-deed.vercel.app](https://strata-deed.vercel.app)  
+**Repo:** [github.com/strata-deed](https://github.com/strata-deed)
+
+### **ValueContentAfrica – Creator Platform**
+*Next.js · Node.js · PostgreSQL · AWS*  
+Comprehensive platform for African content creators to manage, distribute, and monetize their work.  
+**Repo:** [github.com/vheek10/valuecontentafrica](https://github.com/vheek10/valuecontentafrica)
+
+### **BlockVote – Decentralized Voting Platform**
+*Solidity · Hardhat · Next.js · IPFS · Polygon*  
+Secure, transparent voting system with verifiable results and quadratic voting mechanisms.  
+**Demo:** [blockvote-demo.vercel.app](https://blockvote-demo.vercel.app)  
+**Repo:** [github.com/vheek10/blockvote](https://github.com/vheek10/blockvote)
 
 ---
 
-### 🌟 Featured Projects  
-- 🔗 [ELGVotes](https://github.com/Vheek10/elgvotes) – Elite full-stack voting app with Next.js, Tailwind, MongoDB  
-- 🔗 [VaultVote](https://github.com/Vheek10/vaultvote) – Decentralized anonymous governance platform  
-- 🔗 [CoinMarketCap Clone](https://github.com/Vheek10/cmc-clone) – Full crypto dashboard with Web3 features  
-- 🔗 [TokenSwap](https://github.com/Vheek10/tokenswap) – Elegant PancakeSwap-style token swapping UI  
+## 🛠️ Technical Stack
+
+### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend & Blockchain**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EB?style=for-the-badge&logo=ethers&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC72C?style=for-the-badge&logo=hardhat&logoColor=black)
 
 ---
 
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Vheek_io) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://victorgp.vercel.app/)  
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Vheek10&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Vheek10&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vheek10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="96%" />
+
+</div>
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_
+*Open to collaboration on innovative Web3 projects and technical advisory roles.*
