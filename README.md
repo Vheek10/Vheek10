@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Victor Gp</h1>
+<h1 align="center"> I'm Victor Gp</h1>
 <h3 align="center">Full-Stack & Smart Contract Engineer 🚀</h3>
 <p align="center">I build futuristic web experiences that bridge web2 and web3 — from sleek Next.js apps to secure smart contracts.</p>
 
