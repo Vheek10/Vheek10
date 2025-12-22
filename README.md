@@ -21,7 +21,24 @@
 
 ## 🌟 About Me
 
-I’m a developer who turns imagination into lines of elegant, production-ready code. Whether I’m crafting a responsive React interface or deploying audited smart contracts, I’m driven by clarity, innovation, and connecting systems that scale.  
+I'm a developer who turns imagination into lines of elegant, production-ready code. Whether I'm crafting a responsive React interface or deploying audited smart contracts, I'm driven by clarity, innovation, and connecting systems that scale.
+
+---
+
+## 📈 GitHub Streak & Stats
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vheek10&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <!-- GitHub Stats and Activity Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Vheek10&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true" width="48%" alt="Victor's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vheek10&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="48%" alt="Activity Graph" />
+  
+</div>
 
 ---
 
@@ -113,6 +130,7 @@ I’m a developer who turns imagination into lines of elegant, production-ready 
   </tr>
 </table>
 
+---
 
 ## 🏆 Featured Projects
 
@@ -133,22 +151,12 @@ A prediction market interface for Solana ecosystems.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vheek10&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117" width="48%" alt="Victor's GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vheek10&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF" width="48%" alt="Activity Graph" />
-</div>
-
----
-
 ## 🔤 Most Used Languages
 
 <div align="center">
   <!-- dynamically shows your top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vheek10&layout=compact&theme=dark&hide_border=false&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vheek10&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </div>
-
 
 ---
 
@@ -170,9 +178,9 @@ A prediction market interface for Solana ecosystems.
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Let's Build
 
-Whether it’s a full dApp, smart contract suite, or API-driven web experience, I’m ready.  
+Whether it's a full dApp, smart contract suite, or API-driven web experience, I'm ready.  
 📬 Reach out for contract work, consulting, or collaborations.
 
-*Let’s make ideas reality!*
+*Let's make ideas reality!*
