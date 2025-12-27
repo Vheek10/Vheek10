@@ -23,7 +23,7 @@
 
 ## About Me
 
-Versatile full-stack and blockchain engineer delivering clean, efficient, production-ready solutions. Expertise in modern web frameworks, smart contract development, protocol design, and secure dApp integration. Focus on scalability, security, and user experience.
+Versatile full-stack and blockchain engineer delivering clean, efficient, production-ready solutions. Expertise in modern web frameworks, smart contract development, protocol design, and secure dApp integration. Focus on scalability, security, and user experience..
 
 ---
 
