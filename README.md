@@ -97,7 +97,7 @@
 - **Full-Stack & Blockchain Engineer · StrataDeed** (2025 – Present)  
   Designing ZK protocols for tokenized real estate, optimizing gas efficiency by 65%, and building production dApps.
   
-- **Freelance Developer** (2024 – Present)  
+- **Freelance Developer** (2023 – Present)  
   Delivered 20+ Web2/Web3 projects including blockchain explorers, DAO tools, and custom applications with focus on security and scalability.
 
 <br/>
