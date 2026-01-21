@@ -14,7 +14,7 @@
 </p>
 <br/>
 <div align="center">
-  <a href="https://victorgp.vercel.app">
+  <a href="https://vheek.xyz">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/vheek10">
