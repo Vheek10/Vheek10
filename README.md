@@ -9,7 +9,7 @@
  
 </h2>
 <p align="center">
-  Passionate Full-Stack & Blockchain Engineer building secure, scalable web and decentralized applications.<br/>
+A Full-Stack & Blockchain Engineer building secure, scalable web and decentralized applications.<br/>
   Specializing in Web3 innovations like ZK-secured tokenization, prediction markets, and creator platforms.
 </p>
 <br/>
