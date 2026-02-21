@@ -4,10 +4,9 @@
   </a>
 </div>
 <br/>
-<h2 align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
- 
-</h2>
+</div>
 <p align="center">
 A Full-Stack, DevOps & Blockchain Engineer building secure, scalable web and decentralized applications.<br/>
   Specializing in Web3 innovations like ZK-secured tokenization and creator platforms.
@@ -74,7 +73,7 @@ A Full-Stack, DevOps & Blockchain Engineer building secure, scalable web and dec
 </details>
 <br/>
 
-###  GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Vheek10&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="Contribution Streak" />
   <br/><br/>
@@ -84,7 +83,7 @@ A Full-Stack, DevOps & Blockchain Engineer building secure, scalable web and dec
 </div>
 <br/>
 
-###  Featured Projects
+### Featured Projects
 
 | Project                | Description                                                                 | Tech Stack                               | Links                                      |
 |------------------------|-----------------------------------------------------------------------------|------------------------------------------|--------------------------------------------|
@@ -94,7 +93,7 @@ A Full-Stack, DevOps & Blockchain Engineer building secure, scalable web and dec
 
 <br/>
 
-###  Professional Experience
+### Professional Experience
 - **Lead Developer · ValueContentAfrica** (2025 – Present)  
   Leading development of a creator empowerment platform with real-time analytics, microservices, and team strategy.
   
@@ -112,13 +111,13 @@ DeFi Protocols • NFTs & Marketplaces • DAO Governance • Smart Contract Sec
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vheek10/Vheek10/output/snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vheek10/Vheek10/output/snake.svg">
 </picture>
 
 <br/>
 
-###  Let's Connect & Collaborate
+### Let's Connect & Collaborate
 Open to freelance, consulting, or full-time opportunities in full-stack development, dApps, smart contracts, and Web3 innovation.
 
  **Contact:** jeremiahvictorgp@gmail.com
