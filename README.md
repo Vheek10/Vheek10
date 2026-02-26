@@ -111,8 +111,9 @@ DeFi Protocols • NFTs & Marketplaces • DAO Governance • Smart Contract Sec
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vheek10/Vheek10/output/snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vheek10/Vheek10/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vheek10/Vheek10/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vheek10/Vheek10/output/snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vheek10/Vheek10/output/snake.svg">
 </picture>
 
 <br/>
