@@ -77,9 +77,13 @@ A Full-Stack, DevOps & Blockchain Engineer building secure, scalable web and dec
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Vheek10&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="Contribution Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vheek10&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vheek10&theme=github_dark" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vheek10&theme=github_dark" alt="Top Languages by Repo" />
   <br/><br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vheek10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vheek10&theme=github_dark" alt="Top Languages by Commit" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vheek10&theme=github_dark&utcOffset=1" alt="Productive Time" />
 </div>
 <br/>
 
